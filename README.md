@@ -28,4 +28,4 @@ I enjoy reflective writing, spoken-word poetry, deep conversations, and lifelong
 
 🔗 **Connect with me**
 - LinkedIn: *(add when ready)*  
-- GitHub Portfolio: *(link to your main portfolio repo)*  
+- GitHub Portfolio: www.linkedin.com/in/lauretta-oghenevurie-063a772a4   
