@@ -2,7 +2,7 @@
 AI &amp; Data portfolio profile
 👋 Hi, I’m Oghenevurie Lauretta  
 
-📊 AI & Data Analyst | MSc Artificial Intelligence  
+📊 AI & Data Scientist | MSc Artificial Intelligence  
 🏥 Healthcare Background | Research & Applied Analytics  
 
 I work at the intersection of **data analysis, machine learning, and healthcare**, with experience applying statistical and AI methods to real-world problems. My background combines frontline healthcare insight with strong analytical and technical training in AI, data science, and knowledge-based systems.
